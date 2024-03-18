@@ -28,7 +28,7 @@ Run the getfw.sh script that will copy the files to the current directory.
 
 Destroy the build containers.
 
-Push the reset button on one side of the keyboard. This will make the controller behave as a flash drive.
+Push the reset button twice on one side of the keyboard. This will make the controller behave as a flash drive.
 Copy the uf2 file for that side of the keyboard there and repeat this process for the other side.
 
 To ensure both sides are synced, push the reset button on both once at the same time (or as close as possible).
